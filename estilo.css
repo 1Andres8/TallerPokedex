@@ -1,0 +1,104 @@
+body{
+font-family: 'Ranchers', cursive;
+margin: 0;
+padding: 0;
+background-color: #C89797;
+}
+h1{
+  font-family: 'Ranchers', cursive;
+font-size: 50px;
+color: black;
+text-align: center;
+}
+p{
+
+font-size: 20px;
+color: black;
+text-align: center;
+}
+.container h4{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Acero{
+  background: #BABABD;
+}
+.Agua{
+  background: #2D89F0;
+}
+.Bicho{
+  background: #206903;
+}
+.Dragon{
+  background: #F5A403;
+}
+.Electrico{
+  background: #FFF000;
+}
+.Fantasma{
+  background: #8F00FF;
+
+}
+.Fuego{
+  background: #D74513;
+
+}
+.Hada{
+  background: #E65CFF;
+
+}
+.Hielo{
+  background: #00FFFB;
+
+}
+.Lucha{
+  background: #FFFFFF;
+
+}
+.Normal{
+  background: #5B5B5B;
+
+}
+.Planta{
+  background: #28B303;
+
+}
+.Psiquico{
+  background: #B94DBC;
+
+}
+.Roca{
+  background: #6A4A25;
+
+}
+.Siniestro{
+  background: #3E3E3E;
+
+}
+.Tierra{
+  background: #AEA147;
+
+}
+.Veneno{
+  background: #914A99;
+
+}
+.Volador{
+  background: #1A548F;
+
+}
+.Cartas{
+width: 300px;
+height: 400px;
+border-radius: 20px;
+margin: 15px;
+
+}
+img{
+  border-radius: 100%;
+  background-color: white;
+  margin: 20px auto;
+  display: block;
+
+}
